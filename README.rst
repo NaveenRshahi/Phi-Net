@@ -1,4 +1,4 @@
-.. image:: https://gitlab.dlr.de/pule_an/phinet_r1.0/raw/master/logo/phinet_logo_ext.PNG
+.. image:: logo/phinet_logo_ext.PNG
    :width: 1px
    :alt: PhiNet logo
    :align: left
@@ -48,8 +48,8 @@ HowTo
 Folders
 ````````
 
-* `phinet/data <https://gitlab.dlr.de/pule_an/phinet_r1.0/-/tree/master/phinet/data>`_: input files `master.npy` and `slave.npy` SAR Single Look Complex.
-* `phinet/trained_model <https://gitlab.dlr.de/pule_an/phinet_r1.0/-/tree/master/phinet/trained_model>`_: Phi-Net trained model `phi_net_model.hdf5`.
+* `phinet/data </phinet/data>`_: input files `master.npy` and `slave.npy` SAR Single Look Complex.
+* `phinet/trained_model </phinet/trained_model>`_: Phi-Net trained model `phi_net_model.hdf5`.
 * `phinet/result <https://gitlab.dlr.de/pule_an/phinet_r1.0/-/tree/master/phinet/result>`_: output files `estimated_phase.npy` and `estimated_coherence.npy`.
 
 Demo steps (for Linux distribution)
