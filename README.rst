@@ -57,7 +57,7 @@ Folders
 
 * `phinet/data </phinet/data>`_: input files `master.npy` and `slave.npy` SAR Single Look Complex.
 * `phinet/trained_model </phinet/trained_model>`_: Phi-Net trained model `phi_net_model.hdf5`.
-* `phinet/result <https://gitlab.dlr.de/pule_an/phinet_r1.0/-/tree/master/phinet/result>`_: output files `estimated_phase.npy` and `estimated_coherence.npy`.
+* `phinet/result </phinet/result>`_: output files `estimated_phase.npy` and `estimated_coherence.npy`.
 
 Demo steps (for Linux distribution)
 ````````````````````````````````````
