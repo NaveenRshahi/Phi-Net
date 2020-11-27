@@ -85,12 +85,12 @@ Dependencies
 The ``requirements.yml`` file lists all packages necessary to run the
 ``test_demo.py`` file in the ``phinet`` folder.
 
-This package is mainly developed under Python 3.7 with tensorflow 1.13.1. 
+This package is developed under Python 3.7 with tensorflow 1.13.1. 
 
 Acknowledgements 
 ----------------
 
-The authors would like to acknowledge Philipp Posovsky and Andrea Pulella for their support in the production of this repository.
+The authors would like to acknowledge Philipp Posovsky and Andrea Pulella for their support in the set up of this repository.
 
 
 License
