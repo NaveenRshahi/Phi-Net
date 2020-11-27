@@ -27,12 +27,19 @@ If you use this code in your own research, please cite `our paper describing it 
 BibTex
 @ARTICLE{Sica2020,
   author={F. {Sica} and G. {Gobbi} and P. {Rizzoli} and L. {Bruzzone}},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  
   title={ϕ-Net: Deep Residual Learning for InSAR Parameters Estimation}, 
+  
   year={2020},
+  
   volume={},
+  
   number={},
+  
   pages={1-25},
+  
   doi={10.1109/TGRS.2020.3020427}}
 
 
