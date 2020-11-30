@@ -22,7 +22,7 @@ The present code is implemented on the basis of the paper:
 
 * F\. Sica, G. Gobbi, P. Rizzoli and L. Bruzzone, *Φ-Net: Deep Residual Learning for InSAR Parameters Estimation*, in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2020.3020427.
 
-If you use this code in your own research, please cite `our paper describing it <https://ieeexplore.ieee.org/document/9198099>`_.
+If you use this code in your own research, please cite `our paper describing it <https://www.researchgate.net/publication/344692853_ph-Net_Deep_Residual_Learning_for_InSAR_Parameters_Estimation>`_.
 
 BibTex
 @ARTICLE{Sica2020,
