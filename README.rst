@@ -16,11 +16,11 @@ on the theoretical modeling of the physics behind the SAR acquisition principle.
 This strategy allows the network to generalize the estimation problem with respect
 to: 
 
-*(1) different noise levels, 
+(1) different noise levels, 
 
-*(2) the nature of the imaged target on the ground, 
+(2) the nature of the imaged target on the ground, 
 
-*(3) the interferometric acquisition geometry.
+(3) the interferometric acquisition geometry.
 
 The code has been developed at the Microwaves and Radar Institute of the 
 German Aerospace Center (DLR). Münchener Str. 20, 82234 Weßling.
