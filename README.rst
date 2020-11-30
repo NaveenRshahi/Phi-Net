@@ -15,8 +15,11 @@ Phi-Net is trained using synthetic data obtained by an innovative strategy based
 on the theoretical modeling of the physics behind the SAR acquisition principle. 
 This strategy allows the network to generalize the estimation problem with respect
 to: 
+
 *(1) different noise levels, 
+
 *(2) the nature of the imaged target on the ground, 
+
 *(3) the interferometric acquisition geometry.
 
 The code has been developed at the Microwaves and Radar Institute of the 
